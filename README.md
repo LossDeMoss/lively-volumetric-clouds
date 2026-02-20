@@ -4,6 +4,8 @@ This project is a real‑time volumetric cloud shader adapted for use as a live 
 It is based on Inigo Quilez’s original cloud rendering technique and has been ported to WebGL2 with a 3D noise texture for better performance.  
 All parameters are controllable via **Lively Properties**, allowing you to tweak the visuals in real time.
 
+![mktb0ye5 afv](https://github.com/user-attachments/assets/2fde63b6-d5f7-4c77-82c4-e9c43f329825)
+
 ---
 
 ## Features
