@@ -1,0 +1,63 @@
+{
+    "noiseScale": {
+        "type": "slider",
+        "text": "Noise scale",
+        "value": 0.04,
+        "min": 0.01,
+        "max": 0.5,
+        "step": 0.01
+    },
+    "fov": {
+        "type": "slider",
+        "text": "Field of view",
+        "value": 0.9,
+        "min": 0.5,
+        "max": 3.0,
+        "step": 0.1
+    },
+    "cloudSpeed": {
+        "type": "slider",
+        "text": "Cloud speed",
+        "value": 0.65,
+        "min": 0.0,
+        "max": 2.0,
+        "step": 0.05
+    },
+    "cloudType": {
+        "type": "slider",
+        "text": "Cloud type (0: cumulus, 1: cirrus, 2: stratus, 3: cellular)",
+        "value": 3,
+        "min": 0,
+        "max": 3,
+        "step": 1
+    },
+    "lightPreset": {
+        "type": "slider",
+        "text": "Light preset (0: day, 1: sunrise, 2: sunset, 3: evening, 4: night)",
+        "value": 1,
+        "min": 0,
+        "max": 4,
+        "step": 1
+    },
+    "cameraAzimuth": {
+        "type": "slider",
+        "text": "Camera azimuth (deg)",
+        "value": 65.0,
+        "min": 0.0,
+        "max": 360.0
+    },
+    "cameraElevation": {
+        "type": "slider",
+        "text": "Camera elevation (deg)",
+        "value": 8.0,
+        "min": -30.0,
+        "max": 60.0
+    },
+    "cameraDistance": {
+        "type": "slider",
+        "text": "Camera distance",
+        "value": 3.0,
+        "min": 2.0,
+        "max": 20.0
+    }
+}

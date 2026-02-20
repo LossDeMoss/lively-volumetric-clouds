@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Volumetric Clouds",
+  "Thumbnail": "om23vvwt.mr2.jpg",
+  "Preview": "i2mnflj3.3ak.gif",
+  "Desc": "This project is a real‑time volumetric cloud shader adapted for use as a live wallpaper.  \r\nIt is based on Inigo Quilez’s original cloud rendering technique and has been ported to WebGL2 with a 3D noise texture for better performance.  \r\nAll parameters are controllable via Customise, allowing you to tweak the visuals in real time.",
+  "Author": "lossy17 aka ismosin",
+  "License": null,
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
